@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaDownload, FaEnvelope, FaReact, FaCode } from 'react-icons/fa';
+import { FaDownload, FaEnvelope, FaReact } from 'react-icons/fa';
 
 const Hero = () => {
   return (
